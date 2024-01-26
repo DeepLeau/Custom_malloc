@@ -1,6 +1,6 @@
 # Custom_malloc
 
-## Required methods for malloc and calloc :
+## Required methods for malloc,calloc,realloc and free :
 
 ### get_block method :
 This method returns a pointer to the memory block according to the address passed.
