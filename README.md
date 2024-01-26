@@ -29,6 +29,8 @@ The purpose of these functions is to allocate memory on the heap of a program. I
 ## How to run the code :
 First we need to create the object file :
 ``` gcc -o malloc malloc.c ```
+
+
 Then execute it :
 ``` ./malloc ```
 
